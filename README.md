@@ -1,4 +1,6 @@
 # Heart-Disease-Prediction
+![image](https://github.com/Godboleshubha/Heart-Disease-Prediction/assets/160310212/352f9ec9-04f3-4a3e-be93-803e2a239339)
+
 The target is to identify whether the patient has heart disease or not.
 # Introduction
 * We will go through the entire data pipeline from data cleaning, preprocessing, staging, and modeling on a relative dataset. On our way, we will compare different machine learning models and try to measure their performance using various metrics. *
